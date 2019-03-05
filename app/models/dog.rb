@@ -1,5 +1,5 @@
 class Dog 
-  att_accessor :name, :breed, :age 
+  attr_accessor :name, :breed, :age 
   
   @@all = []
   
